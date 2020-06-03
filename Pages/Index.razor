@@ -11,7 +11,14 @@
     {
         new MenuItem{ Text="Cut", IconCss="e-icons e-cut"},
         new MenuItem{ Text = "Copy" },
-        new MenuItem{ Text = "Paste"}
+        new MenuItem{ Text = "Paste", Items = new List<MenuItem>
+            {
+                new MenuItem { Text= "Merge Formatting" },
+                new MenuItem { Text= "Keep Source Formatting" }
+            }
+        },
+        //UnComment below line to perform navigation
+        //new MenuItem{ Text="Navigate", Url="https://blazor.syncfusion.com/documentation"}
     };
 
     public void Render(MenuEventArgs args)
