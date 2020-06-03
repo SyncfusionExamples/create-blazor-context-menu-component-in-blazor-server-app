@@ -1,0 +1,38 @@
+﻿@page "/"
+
+<div id="target">Right click / touch hold to open the Menu</div>
+
+<SfContextMenu Target="#target" Items="@MenuItems">
+    <ContextMenuEvents OnItemRender="Render"></ContextMenuEvents>
+</SfContextMenu>
+
+@code{
+    public List<MenuItem> MenuItems = new List<MenuItem>
+    {
+        new MenuItem{ Text="Cut", IconCss="e-icons e-cut"},
+        new MenuItem{ Text = "Copy" },
+        new MenuItem{ Text = "Paste"}
+    };
+
+    public void Render(MenuEventArgs args)
+    {
+        args.Element.AddClass(new string[] { "custom" });
+    }
+}
+
+<style>
+    #target{
+        height: 150px;
+        border: 1px dashed;
+    }
+
+    .e-cut::before {
+        content: '\e279';
+    } 
+
+    .custom{
+        float: left;
+        font-style: italic;
+        font-size: 10px;
+    }
+</style>
