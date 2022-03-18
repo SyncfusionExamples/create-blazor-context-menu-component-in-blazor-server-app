@@ -29,7 +29,7 @@ Templates is used to create custom user experience. You can create custom Contex
 The [animation](https://blazor.syncfusion.com/documentation/accordion/animations?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples) property also allows to set Easing, Duration, and various other effects of an individual’s choice.
 
 ## Related links
-[Learn More about Blazor Accordion](https://www.syncfusion.com/blazor-components/blazor-context-menu?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
+[Learn More about Blazor Context Menu](https://www.syncfusion.com/blazor-components/blazor-context-menu?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
