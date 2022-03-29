@@ -50,7 +50,7 @@ The [animation](https://blazor.syncfusion.com/documentation/accordion/animations
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-navigations-github-samples)
 
 ## About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Context Menu, we provide popular Blazor Components such as DataGrid,Charts, Scheduler, Diagram, Word Processor, and more.
+The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Context Menu, we provide popular Blazor Components such as DataGrid, Charts, Scheduler, Diagram, Word Processor, and more.
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
