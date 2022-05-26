@@ -37,7 +37,7 @@ The [animation](https://blazor.syncfusion.com/documentation/accordion/animations
 
 [Documentation](https://blazor.syncfusion.com/documentation/context-menu/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-context-menu-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/context-menu/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-context-menu-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/create-blazor-context-menu-component-in-blazor-server-app?utm_source=github&utm_medium=listing&utm_campaign=blazor-context-menu-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-context-menu-github-samples)
 
